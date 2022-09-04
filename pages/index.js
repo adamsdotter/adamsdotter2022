@@ -23,8 +23,9 @@ export default function Home() {
             The past years I've been working mainly with React and Vue.
           </p>
           <p>
-            Since 2014 I've been working remotely and have the ambition to continue this way.
-            I am open to fun projects world wide as long as I can work from home.
+            I am based in both Stockholm and Berlin. 
+            For the past 8 years I've been working remotely for several different companies. 
+            Remote work fits me the best as I really value the great impact it has on productivity and focus.
           </p>
         </section>
       </main>
