@@ -20,12 +20,27 @@ export default function Home() {
           <p>
             My biggest passion lies within Front-end techniques such as JavaScript, CSS and HTML.
             I focus on semantically correct responsive websites which are available for everyone, no matter device or disability.
-            The past years I've been working mainly with React and Vue.
           </p>
           <p>
-            I am based in both Stockholm and Berlin. 
             For the past 8 years I've been working remotely for several different companies. 
             Remote work fits me the best as I really value the great impact it has on productivity and focus.
+          </p>
+          <p>
+            I'm currently based in Stockholm but have got my second home in Berlin where I've lived for many years. <br />
+            Jag talar svenska, I speak English und ich spreche Deutsch.
+          </p>
+        </section>
+        <section className={styles.section}>
+          <p>
+            My passion for building websites started in middle school in 1997 when I got my very first computer. 
+            I was curious to find out why some websites had flashing text moving around all over the place, loud background sounds and lots of hysterical GIFs...
+            I too wanted that on my website!
+          </p>
+          <p>
+            And so it all started; I ended up teaching myself how to develop websites and have since then truly loved to build beautiful things for the web.
+          </p>
+          <p>
+            Except for building websites I enjoy traveling the world (mainly Asia), dancing in Berlin clubs, snowboarding in the Alps and spending time with my amazing and lovley little family. 
           </p>
         </section>
       </main>
