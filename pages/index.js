@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Hi! I am Patricia.</h1>
+        <h1 className={`${styles.title} ${styles.colorful}`}>Hi! I am Patricia.</h1>
         <section className={styles.section}>
           <p>
             I'm a senior front-end developer. I've been working professionally in the industry as a developer for more than 14 years and full-time as a <a href="https://dev-cat.com/">freelancer</a> since 2018.
@@ -42,6 +42,23 @@ export default function Home() {
           <p>
             Except for building websites I enjoy traveling the world (mainly Asia), dancing in Berlin clubs, snowboarding in the Alps and spending time with my amazing and lovley little family. 
           </p>
+        </section>
+        <section className={styles.section}>
+          <h2 className={styles.colorful}>CONTACT</h2>
+          <p>
+            Don't hesitate to hit me up if you've got any questions, want to discuss an upcoming project* or simply just wanna drop me a line 🥳
+          </p>
+          <em>
+            <small>* Please note that I only take on fully remote projects as a Front-end developer, not fullstack nor backend</small>
+          </em>
+          <dl>
+            <dt>E-mail:</dt>
+            <dd>hello(at)dev-cat.com</dd>
+            <dt>LinkedIn:</dt>
+            <dd><a href="http://www.linkedin.com/in/patriciaadamsson">patriciaadamsson</a></dd>
+            <dt>Github:</dt>
+            <dd><a href="https://github.com/adamsdotter">@adamsdotter</a></dd>
+          </dl>
         </section>
       </main>
     </div>
