@@ -12,21 +12,21 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={`${styles.title} ${styles.colorful}`}>Hi! I am Patricia.</h1>
+        <h1 className={`${styles.title} ${styles.colorful}`}>Hi! I&apos;m Patricia.</h1>
         <section className={styles.section}>
           <p>
-            I'm a senior front-end developer. I've been working professionally in the industry as a developer for more than 14 years and full-time as a <a href="https://dev-cat.com/">freelancer</a> since 2018.
+            I&apos;m a senior front-end developer. I&apos;ve been working professionally in the industry as a developer for more than 14 years and full-time as a <a href="https://dev-cat.com/">freelancer</a> since 2018.
           </p>
           <p>
             My biggest passion lies within Front-end techniques such as JavaScript, CSS and HTML.
             I focus on semantically correct responsive websites which are available for everyone, no matter device or disability.
           </p>
           <p>
-            For the past 8 years I've been working remotely for several different companies. 
+            For the past 8 years I&apos;ve been working remotely for several different companies. 
             Remote work fits me the best as I really value the great impact it has on productivity and focus.
           </p>
           <p>
-            I'm currently based in Stockholm but have got my second home in Berlin where I've lived for many years. <br />
+            I&apos;m currently based in Stockholm but have got my second home in Berlin where I&apos;ve lived for many years. <br />
             Jag talar svenska, I speak English und ich spreche Deutsch.
           </p>
         </section>
@@ -46,7 +46,7 @@ export default function Home() {
         <section className={styles.section}>
           <h2 className={styles.colorful}>CONTACT</h2>
           <p>
-            Don't hesitate to hit me up if you've got any questions, want to discuss an upcoming project* or simply just wanna drop me a line 🥳
+            Don&apos;t hesitate to hit me up if you&apos;ve got any questions, want to discuss an upcoming project* or simply just wanna drop me a line 🥳
           </p>
           <em>
             <small>* Please note that I only take on fully remote projects as a Front-end developer, not fullstack nor backend</small>
