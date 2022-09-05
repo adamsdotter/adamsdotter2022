@@ -15,7 +15,7 @@ export default function Home() {
         <h1 className={`${styles.title} ${styles.colorful}`}>Hi! I&apos;m Patricia.</h1>
         <section className={styles.section}>
           <p>
-            I&apos;m a senior front-end developer. I&apos;ve been working professionally in the industry as a developer for more than 14 years and full-time as a <a href="https://dev-cat.com/">freelancer</a> since 2018.
+            I am a senior front-end developer. I&apos;ve been working professionally in the industry as a developer for almost 15 years and full-time as a <a href="https://dev-cat.com/">freelancer</a> since 2018.
           </p>
           <p>
             My biggest passion lies within Front-end techniques such as JavaScript, CSS and HTML.
@@ -26,21 +26,21 @@ export default function Home() {
             Remote work fits me the best as I really value the great impact it has on productivity and focus.
           </p>
           <p>
-            I&apos;m currently based in Stockholm but have got my second home in Berlin where I&apos;ve lived for many years. <br />
-            Jag talar svenska, I speak English und ich spreche Deutsch.
+            I&apos;m currently based in Stockholm but have got my second home (and 🖤) in Berlin where I&apos;ve lived for many years. <br />
+            Jag talar svenska 🇸🇪, I speak English 🇬🇧 und ich spreche Deutsch 🇩🇪.
           </p>
         </section>
         <section className={styles.section}>
           <p>
-            My passion for building websites started in middle school in 1997 when I got my very first computer. 
-            I was curious to find out why some websites had flashing text moving around all over the place, loud background sounds and lots of hysterical GIFs...
-            I too wanted that on my website!
+            My passion for building websites started in middle school in 1997 when I got my very first computer 💾. 
+            I was curious to find out why some websites had flashing text moving around all over the place, loud background <span className={styles.strikeThrough}>sounds</span> noises and lots of hysterical GIFs 🦄...
+            I too wanted all of that on my website!
           </p>
           <p>
             And so it all started; I ended up teaching myself how to develop websites and have since then truly loved to build beautiful things for the web.
           </p>
           <p>
-            Except for building websites I enjoy traveling the world (mainly Asia), dancing in Berlin clubs, snowboarding in the Alps and spending time with my amazing and lovley little family. 
+            Except for building websites, I enjoy traveling the world (mainly Asia), 💃🏻 in Berlin clubs, 🏂 in the Alps and spending time with my amazing and lovley little family 👨‍👩‍👦
           </p>
         </section>
         <section className={styles.section}>
@@ -52,11 +52,11 @@ export default function Home() {
             <em>* Please note that I only take on fully remote projects as a Front-end developer, not fullstack nor backend</em> 💁🏻‍♀️
           </small>
           <dl className={styles.contactList}>
-            <dt>E-mail:</dt>
+            <dt>💌 E-mail:</dt>
             <dd>hello(at)dev-cat.com</dd>
-            <dt>LinkedIn:</dt>
+            <dt>👥 LinkedIn:</dt>
             <dd><a href="http://www.linkedin.com/in/patriciaadamsson">patriciaadamsson</a></dd>
-            <dt>Github:</dt>
+            <dt>🛠 Github:</dt>
             <dd><a href="https://github.com/adamsdotter">@adamsdotter</a></dd>
           </dl>
         </section>
