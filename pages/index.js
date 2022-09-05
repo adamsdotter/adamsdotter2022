@@ -48,10 +48,10 @@ export default function Home() {
           <p>
             Don&apos;t hesitate to hit me up if you&apos;ve got any questions, want to discuss an upcoming project* or simply just wanna drop me a line 🥳
           </p>
-          <em>
-            <small>* Please note that I only take on fully remote projects as a Front-end developer, not fullstack nor backend</small>
-          </em>
-          <dl>
+          <small>
+            <em>* Please note that I only take on fully remote projects as a Front-end developer, not fullstack nor backend</em> 💁🏻‍♀️
+          </small>
+          <dl className={styles.contactList}>
             <dt>E-mail:</dt>
             <dd>hello(at)dev-cat.com</dd>
             <dt>LinkedIn:</dt>
